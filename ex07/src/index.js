@@ -1,9 +1,9 @@
 function main() {
     // Only change code below this line 
-    var someAdjective = "the best!"
-    var myString = "Mistral is "
+    var someAdjective = "the best!";
+    var myString = "Mistral is ";
 
-    myString += someAdjective
+    myString += someAdjective;
     // Only change code above this line
 
     return myString;
